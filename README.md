@@ -1,6 +1,6 @@
-# **FlashAttention-with-CUDA Report**
+# **FlashAttention with CUDA Report**
 
-## **1. Title, Name, and Student LinkedIn**
+## **1. Title, Name, and LinkedIn**
 - **Title:** The forward pass of FlashAttention with CUDA.
 - **Name:** Roger Chang
 - **LinkedIn** [rogerchang1108](https://www.linkedin.com/in/rogerchang1108/)
