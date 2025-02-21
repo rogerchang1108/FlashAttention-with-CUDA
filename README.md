@@ -1422,7 +1422,7 @@
 ---
 
 ## **5. Experience & Conclusion**
-### **5.1 What have I learned from this homework?**
+### **5.1 What have I learned from this project?**
   Through this project, I learned about **FlashAttention** and how to implement it using **CUDA**. I explored various optimization techniques, such as **shared memory**, **memory coalescing**, and **avoiding bank conflicts**, to improve performance.  
 
   However, unlike the **Blocked Floyd-Warshall Algorithm**, the optimization of **FlashAttention** seems to rely more heavily on understanding the algorithm and fine-tuning the thread and block sizes. I believe I still have some blind spots in this area and need to work on improving my understanding.  
