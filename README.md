@@ -1,6 +1,6 @@
-# **Parallel Programming - Homework 4 Report**
+# **FlashAttention-with-CUDA Report**
 
-## **1. Title, Name, and Student ID**
+## **1. Title, Name, and Student LinkedIn**
 - **Title:** The forward pass of FlashAttention with CUDA.
 - **Name:** Roger Chang
 - **LinkedIn** [rogerchang1108](https://www.linkedin.com/in/rogerchang1108/)
